@@ -1,0 +1,20 @@
+{
+  "name": "open-pajak",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariastevany9@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5"
+  }
+}
